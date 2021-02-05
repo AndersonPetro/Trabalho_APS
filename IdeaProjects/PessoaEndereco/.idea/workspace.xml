@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0834ea14-8015-45ea-aebb-9c457701bb39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jTJ7hiMo4g5xXTGi9aUjBQYYvT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppPessoaEndereco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppPessoaEndereco" />
+      <module name="PessoaEndereco" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppPessoaEndereco" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0834ea14-8015-45ea-aebb-9c457701bb39" name="Default Changelist" comment="" />
+      <created>1603821985965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603821985965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1603823866810">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="804" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1603823866810" />
+    <state x="747" y="421" width="488" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603823047499">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="747" y="421" width="488" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1603823047499" />
+    <state x="774" y="300" width="424" height="520" key="FileChooserDialogImpl" timestamp="1603825706422">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="774" y="300" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1603825706422" />
+    <state width="1802" height="340" key="GridCell.Tab.0.bottom" timestamp="1604001206821">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603986523956" />
+    <state width="1802" height="340" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604001206821" />
+    <state width="1802" height="340" key="GridCell.Tab.0.center" timestamp="1604001206820">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603986523956" />
+    <state width="1802" height="340" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604001206820" />
+    <state width="1802" height="340" key="GridCell.Tab.0.left" timestamp="1604001206820">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603986523955" />
+    <state width="1802" height="340" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604001206820" />
+    <state width="1802" height="340" key="GridCell.Tab.0.right" timestamp="1604001206821">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1603986523956" />
+    <state width="1802" height="340" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604001206820" />
+    <state width="1802" height="340" key="GridCell.Tab.1.bottom" timestamp="1604001206822">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.1.bottom/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604001206822" />
+    <state width="1802" height="340" key="GridCell.Tab.1.center" timestamp="1604001206821">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.1.center/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604001206821" />
+    <state width="1802" height="340" key="GridCell.Tab.1.left" timestamp="1604001206821">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.1.left/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604001206821" />
+    <state width="1802" height="340" key="GridCell.Tab.1.right" timestamp="1604001206822">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="340" key="GridCell.Tab.1.right/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604001206822" />
+    <state x="579" y="299" width="824" height="515" key="IDE.errors.dialog" timestamp="1603825450668">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="579" y="299" width="824" height="515" key="IDE.errors.dialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1603825450668" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1603996972841">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1603996972841" />
+    <state x="590" y="155" width="802" height="803" key="new project wizard" timestamp="1604001140500">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="590" y="155" width="802" height="803" key="new project wizard/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1604001140500" />
+  </component>
+</project>
