@@ -47,6 +47,10 @@ public abstract class Pessoa {
         this.experiencia = experiencia;
     }
 
+//    public boolean equals(Pessoa obj) {
+//        return nome.equals(obj.getNome()) && idade == obj.getIdade();
+//    }
+
     @Override
     public String toString() {
         return "Pessoa{" +
